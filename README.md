@@ -136,7 +136,7 @@ Scaling Large Language Models (LLMs) by increasing parameters, training data, an
 
 -Amplification of training data biases.
 
-<img width="1024" height="631" alt="image" src="https://github.com/user-attachments/assets/3710f6be-38fc-493b-968d-6deb3f50b2fc" />
+<img width="1024" height="631" alt="image" src="https://github.com/user-attachments/assets/03a5bf16-bf36-4deb-9445-10ec8af86b9c" />
 
 
 # Result
